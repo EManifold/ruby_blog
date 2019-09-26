@@ -1,25 +1,5 @@
-# README
+DEMO BLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I created using a code along Free Code Camp tutorial online.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ruby_blog
+Has index page for posts, with show page for each post and editable commenting.
